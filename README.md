@@ -1,6 +1,6 @@
 # Vio-Userpanel
 
-User Panel für Vio-Lite / -Extended / THC / Ultimate.
+User Panel für Vio-Lite / -Extended / THC / Ultimate. Updated. läuft stabil mit aktueller PHP-Version.
 <br><br>
 <h3>Features / Funktionen:</h3>
 
